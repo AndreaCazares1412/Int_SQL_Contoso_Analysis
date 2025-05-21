@@ -34,7 +34,7 @@ This analysis is valuable for multiple business departments:
 
 **📊 Visualization:**
 
-![Customer Segmentation](/images/3_customer_segementation.png)
+<img src="/images/3_customer_segementation.png" width="400" height="350">
 
 **📈 Key Findings:**
 
@@ -60,7 +60,7 @@ This analysis is valuable for multiple business departments:
 
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date
 
-![Cohort Analysis](/images/2_customer_revenue.png)
+<img src="/images/2_customer_revenue.png" width="500" height="350">
 
 **📈 Key Findings:**
 
@@ -83,7 +83,8 @@ Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date
 
 **📊 Visualization:**
 
-![Customer Retention](/images/3_customer_churn_cohort_year.png)
+<img src="/images/3_customer_churn_cohort_year.png" width="450" height="350">
+
 
 **📈 Key Findings:**
 
