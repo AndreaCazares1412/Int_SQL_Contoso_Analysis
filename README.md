@@ -102,7 +102,7 @@ Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date
 ## Technical Details
 
 - **Database:** PostgreSQL
-- **Analysis Tools:** PostgreSQL
+- **Analysis Tools:** PostgreSQL, DBeaver, PGadmin
 - **Visualization:** ChatGPT
 
 ## Conclusion
